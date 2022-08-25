@@ -1,0 +1,15 @@
+* {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.bulb {
+  width: 100px;
+  height: 100px;
+  background: yellow;
+  border-radius: 50%;
+  margin: 0 auto;
+}
